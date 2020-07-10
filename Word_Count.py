@@ -3,11 +3,9 @@ from tkinter import ttk
 from tkinter import filedialog
 import docx
 
-
 L1 =""
 L2 =""
 Fn =""
-
 
 class Root(Tk):
     def __init__(self):
